@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796867373501",
+    "project_id": "baeit-3d474",
+    "storage_bucket": "baeit-3d474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796867373501:android:066e28b018611c27330ad4",
+        "android_client_info": {
+          "package_name": "com.noahnomad.baeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796867373501-ltov3bfs7urt0b5vtfo4sn1b0jn6867h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZI65w6eeU5bxssTAbMa1r1wd2AWqzdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796867373501-ltov3bfs7urt0b5vtfo4sn1b0jn6867h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

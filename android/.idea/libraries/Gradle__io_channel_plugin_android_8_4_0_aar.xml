@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: io.channel:plugin-android:8.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/mint-5.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/logging-interceptor-3.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/stream-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/antlr4-runtime-4.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/okhttp-3.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/libphonenumber-8.10.16.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/adapter-rxjava-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/socket.io-client-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/glide-3.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/engine.io-client-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/rxjava-1.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/RxAndroid-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/converter-gson-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/gson-2.7.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/retrofit-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/jars/libs/okio-1.13.0.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fa45f827c62c4b418123436ced7ac57/jetified-plugin-android-8.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
